@@ -1,0 +1,21 @@
+train performace  77.44
+3  2 : false
+4  4 : true
+4  1 : false
+1  1 : true
+2  1 : false
+5  5 : true
+5  2 : false
+6  5 : false
+1  1 : true
+4  4 : true
+5  5 : true
+1  1 : true
+1  1 : true
+2  1 : false
+1  1 : true
+2  2 : true
+6  6 : true
+3  3 : true
+6  6 : true
+test performace  68.42
